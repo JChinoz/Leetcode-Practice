@@ -1,0 +1,3 @@
+var findSimilarPrefix = function(strings) {
+  
+}
