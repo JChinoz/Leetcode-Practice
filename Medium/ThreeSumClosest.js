@@ -11,6 +11,7 @@ var threeSumClosest = function(nums, target) {
       let right = nums.length - 1;
 
       sumThree += nums[i] + nums[left] + nums[right];
+      if 
     }
   }
   return sumThree;
